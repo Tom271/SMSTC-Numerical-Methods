@@ -3,5 +3,5 @@ This repo will slowly be populated with some example implementations of some of 
 
 ### Work in Progress!
 
-## SDEs -- Des Higham
+## SDEs — Des Higham
 For MATLAB implementations see [the website](http://personal.strath.ac.uk/d.j.higham/algfiles.html). Note that the links to the files on Des' Edinburgh webpage do not work, make sure you're on the old Strathclyde one! 
