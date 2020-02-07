@@ -1,4 +1,7 @@
 # SMSTC-Numerical-Methods
+<p align="center">
+<a href="https://mybinder.org/v2/gh/Tom271/SMSTC-Numerical-Methods/master"><img alt="Open Binder" src="https://mybinder.org/badge_logo.svg"></a>
+</p>
 This repo will slowly be populated with some example implementations of some of the algorithms introduced in [SMSTC Numerical Methods](https://smstc.ac.uk/my-smstc/students/modules/2019-2020-numerical-methods "SMSTC website").
 
 ### Work in Progress!
