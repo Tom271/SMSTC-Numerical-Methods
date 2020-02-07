@@ -22,7 +22,7 @@ def logistic(t, y):
     return y * (1 - y)
 
 
-r = ode(logistic).set_integrator("vode")
+r = ode(logistic).set_integrator("vode",rtol=1e-6,atol=1e-6)
 r.set_initial_value(y0, t0)
 T_end = 5
 dt = 0.01
